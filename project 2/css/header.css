@@ -1,0 +1,21 @@
+.header
+{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(253, 253, 253);
+    color: black;
+    align-items: center;
+    box-shadow: 0px 6px 10px black;    
+    position: fixed;
+    top: 0px;
+    width: 100%;   
+    z-index: 5;
+    cursor: pointer;
+      
+}
+.header p:hover
+{
+    background-color: grey;
+    padding: 15px 15px 15px 15px;
+   
+}

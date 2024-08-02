@@ -1,0 +1,19 @@
+
+.brands
+{
+
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 130px;
+    padding: 100px;
+    row-gap:100px;
+    background:grey;
+}
+.brand1
+{
+    
+    height: 300px;
+    width: 300px;
+    box-shadow: 0px 0px 6px black;
+    border-radius: 10px;
+}

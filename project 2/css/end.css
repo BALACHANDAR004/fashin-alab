@@ -1,0 +1,52 @@
+.end
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 100px;
+    padding: 5px 5px 5px 120px;
+    align-items: center;
+    margin-bottom: 100px;
+   
+}
+.end1
+{
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.end3-1
+{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 30px;
+    
+}
+.end3-2
+{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 343px;
+}
+.end3-3
+{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 615px;
+}
+.end3-4
+{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 955px;
+}
+
+.end2
+{
+    background: grey;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    display: inline-block;
+    padding: 100px;
+}
